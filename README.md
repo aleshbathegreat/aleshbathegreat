@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aleshbathegreat
 - 👀 I’m interested in exploring what the world beholds for my enthusiastic personality
-- 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on innovative and flexible projects 
 - 📫 How to reach me: hit me up on email 
 
